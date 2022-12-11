@@ -1,0 +1,27 @@
+Dec 03, 2022 3:46:33 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: Production
+Dec 03, 2022 3:46:33 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3071.v7e9b_0dc08466
+Dec 03, 2022 3:46:33 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/ubuntu/jenkins/remoting as a remoting work directory
+Dec 03, 2022 3:46:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://65.0.81.214:8080/]
+Dec 03, 2022 3:46:33 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Dec 03, 2022 3:46:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: 65.0.81.214
+  Agent port:    43725
+  Identity:      ac:be:7b:5c:bf:2e:0f:f4:17:fd:9d:99:7c:7e:ee:a8
+Dec 03, 2022 3:46:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Dec 03, 2022 3:46:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to 65.0.81.214:43725
+Dec 03, 2022 3:46:33 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Dec 03, 2022 3:46:34 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Dec 03, 2022 3:46:34 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: ac:be:7b:5c:bf:2e:0f:f4:17:fd:9d:99:7c:7e:ee:a8
+Dec 03, 2022 3:46:34 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
